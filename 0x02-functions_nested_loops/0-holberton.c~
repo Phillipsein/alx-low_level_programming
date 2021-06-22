@@ -1,0 +1,9 @@
+#include <stdio.h>
+/*
+ *program that prints Holberton, followed by a new line.
+ */
+
+int main (){
+  putchar("Holberton");
+  putchar("\n");
+}
