@@ -1,6 +1,6 @@
 /*
  * File: 1-args.c
- * Auth: Brennan D Baraban
+ * Auth: Phillip Ssempereza
  */
 
 #include <stdio.h>
