@@ -1,6 +1,6 @@
 /*
  * File: 1-listint_len.c
- * Auth: Brennan D Baraban
+ * Auth: Phillip Ssempereza
  */
 
 #include "lists.h"
