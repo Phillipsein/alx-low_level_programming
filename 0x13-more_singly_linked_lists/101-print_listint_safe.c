@@ -1,6 +1,6 @@
 /*
  * File: 101-print_listint_safe.c
- * Auth: Brennan D Baraban
+ * Auth: Phillip Ssempereza
  */
 
 #include "lists.h"
