@@ -1,6 +1,6 @@
 /*
  * File: 100-reverse_listint.c
- * Auth: Brennan D Baraban
+ * Auth: Phillip Ssempereza
  */
 
 #include "lists.h"
