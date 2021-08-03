@@ -1,6 +1,6 @@
 /*
  * File: 0-print_listint.c
- * Auth: Brennan D Baraban
+ * Auth: Phillip Ssempereza
  */
 
 #include "lists.h"
